@@ -1,0 +1,11 @@
+{
+  "name": "dpd-raccoon",
+  "version": "1.0.0",
+  "description": "Deployd module that gives access to the Raccoon collaborative filtering engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
