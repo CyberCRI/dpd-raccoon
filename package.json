@@ -1,11 +1,24 @@
 {
   "name": "dpd-raccoon",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Deployd module that gives access to the Raccoon collaborative filtering engine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "MIT"
+  "author": "CRI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CyberCRI/dpd-raccoon"
+  },
+  "keywords": [
+    "raccoon",
+    "collaborative",
+    "filtering"
+  ],
+  "bugs": {
+    "url": "https://github.com/CyberCRI/dpd-raccoon/issues"
+  },
+  "homepage": "https://github.com/CyberCRI/dpd-raccoon"
 }
