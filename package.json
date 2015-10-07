@@ -1,6 +1,6 @@
 {
   "name": "dpd-raccoon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Deployd module that gives access to the Raccoon collaborative filtering engine",
   "main": "index.js",
   "scripts": {
