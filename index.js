@@ -8,7 +8,6 @@ var RACCOON_METHODS = ["stat", "liked", "disliked", "recommendFor", "bestRated",
 // Connect to Raccoon
 // TODO: make this configurable
 raccoon.connect(6379, "localhost");
-console.log("Logged into Raccoon");
 
 function RaccoonResource() {
   Resource.apply(this, arguments);

@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/CyberCRI/dpd-raccoon"
   },
+  "dependencies": {
+    "raccoon": "^0.2.3"
+  },
   "keywords": [
     "raccoon",
     "collaborative",
