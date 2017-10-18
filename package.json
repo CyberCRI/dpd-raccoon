@@ -13,7 +13,7 @@
     "url": "https://github.com/CyberCRI/dpd-raccoon"
   },
   "dependencies": {
-    "raccoon": "^0.2.3"
+    "raccoon": "0.2.3"
   },
   "keywords": [
     "raccoon",
